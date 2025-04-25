@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Fridgey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.core\\9.0.60\\buildTransitive\\Microsoft.Maui.Core.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\fridgey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\fridgey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\favoritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\favoritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\favoritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\favoritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\mealplannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\mealplannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f08613bf03f6462ed0de7a7f5153f4878031a14a\\Resources_Styles_Styles.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f988ee17273b207e73bfb50591f2b05025620e0b\\App.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\splashpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|c:\\users\\user\\source\\repos\\fridgey\\fridgey\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12496B26-18BC-4BE9-8CDD-971416B2D232}|Fridgey\\Fridgey.csproj|solutionrelative:fridgey\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fridgey.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Fridgey.csproj",
+              "RelativeDocumentMoniker": "Fridgey\\Fridgey.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Fridgey.csproj",
+              "RelativeToolTip": "Fridgey\\Fridgey.csproj",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T05:13:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Maui.Core.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.core\\9.0.60\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.core\\9.0.60\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.core\\9.0.60\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.core\\9.0.60\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-18T04:54:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Fridgey\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:10:59.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T18:32:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\App.xaml.cs",
+              "RelativeToolTip": "Fridgey\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:39:45.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\AppShell.xaml.cs",
+              "RelativeToolTip": "Fridgey\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:38:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Fridgey\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\MauiProgram.cs",
+              "RelativeToolTip": "Fridgey\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:46:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\AppShell.xaml",
+              "RelativeToolTip": "Fridgey\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T18:31:37.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\App.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\App.xaml",
+              "RelativeToolTip": "Fridgey\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T05:39:39.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoritesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\FavoritesPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\FavoritesPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\FavoritesPage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\FavoritesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T18:32:40.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MealPlannerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\MealPlannerPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\MealPlannerPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\MealPlannerPage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\MealPlannerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T18:33:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\RegisterPage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\RegisterPage.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T06:45:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SplashPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\SplashPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\SplashPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\SplashPage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\SplashPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T17:46:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\FavoritesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\FavoritesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\FavoritesPage.xaml.cs",
+              "RelativeToolTip": "Fridgey\\Views\\FavoritesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:12:52.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Fridgey\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T05:37:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Fridgey\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0oAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:36:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resources_Styles_Styles.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f08613bf03f6462ed0de7a7f5153f4878031a14a\\Resources_Styles_Styles.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f08613bf03f6462ed0de7a7f5153f4878031a14a\\Resources_Styles_Styles.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f08613bf03f6462ed0de7a7f5153f4878031a14a\\Resources_Styles_Styles.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f08613bf03f6462ed0de7a7f5153f4878031a14a\\Resources_Styles_Styles.xaml.sg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:35:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Fridgey\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:32:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SplashPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\SplashPage.xaml.cs",
+              "RelativeDocumentMoniker": "Fridgey\\Views\\SplashPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\Views\\SplashPage.xaml.cs",
+              "RelativeToolTip": "Fridgey\\Views\\SplashPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:00:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f988ee17273b207e73bfb50591f2b05025620e0b\\App.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f988ee17273b207e73bfb50591f2b05025620e0b\\App.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\f988ee17273b207e73bfb50591f2b05025620e0b\\App.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f988ee17273b207e73bfb50591f2b05025620e0b\\App.xaml.sg.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:36:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Fridgey\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fridgey\\Fridgey\\MainPage.xaml",
+              "RelativeToolTip": "Fridgey\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T05:23:29.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+images\dotnet_bot;images\dotnet_bot
+images\favorites;images\favorites
+images\fridgey_logo;images\fridgey_logo
+images\home;images\home
+images\planner;images\planner
+images\splash_logo;images\splash_logo
+raw\aboutassets;raw\AboutAssets

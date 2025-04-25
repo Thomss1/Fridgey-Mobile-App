@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Fridgey.Views.LoginPage"
+             Title="LoginPage">
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30,60" HorizontalOptions="Center">
+
+            <Image Source="fridgey_logo.png"
+                   WidthRequest="150"
+                   HeightRequest="150"
+                   HorizontalOptions="Center" />
+
+            <Label Text="FRIDGEY"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="#aeffde"
+                   HorizontalOptions="Center" />
+            
+            <Label Text ="Your friendly recipe suggestion app"
+                   FontSize="15"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                
+            />
+
+            <Frame BackgroundColor="#e4f1ff"
+                   CornerRadius="12"
+                   HasShadow="False"
+                   Padding="10">
+                <Entry Placeholder="Email"
+                       TextColor="#333333"
+                       PlaceholderColor="#888"
+                       Keyboard="Email" />
+            </Frame>
+
+            <Frame BackgroundColor="#e4f1ff"
+                   CornerRadius="12"
+                   HasShadow="False"
+                   Padding="10">
+                <Entry Placeholder="Password"
+                       IsPassword="True"
+                       TextColor="#333333"
+                       PlaceholderColor="#888" />
+            </Frame>
+
+            <Button Text="Login"
+                    BackgroundColor="#aeffde"
+                    TextColor="#333333"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    Padding="12"
+                    HorizontalOptions="Fill"
+                    />
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Don't have an account?"
+                       TextColor="#e4f1ff"
+                       FontSize="14" />
+                <Label Text=" Register"
+                       TextColor="#aeffde"
+                       FontSize="14"
+                       FontAttributes="Bold"
+                       />
+            </StackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

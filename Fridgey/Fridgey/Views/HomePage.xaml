@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Fridgey.Views.HomePage"
+             BackgroundColor="{StaticResource DarkBackground}">
+
+    <Grid RowDefinitions="Auto, *, Auto"
+          ColumnDefinitions="*, Auto, *">
+
+        <!-- Top Menu Bar -->
+        <Grid HorizontalOptions="FillAndExpand" Row="0" ColumnSpan="3" BackgroundColor="{StaticResource DarkBackground}">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="10">
+                <Button Text="About Us" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+                <Button Text="Services" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+                <Button Text="Profile" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+                <Button Text="Logout" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+            </StackLayout>
+        </Grid>
+
+        <!-- Main Content Area (Search bar and Filters) -->
+        <StackLayout Row="1" Padding="10">
+            <SearchBar Placeholder="Search recipes..." BackgroundColor="{StaticResource Secondary}" TextColor="{StaticResource DarkBackground}" />
+
+            <!-- Ingredients Filter Dropdown -->
+            <Label Text="Select Ingredients" TextColor="{StaticResource Primary}" />
+            <Picker x:Name="IngredientsPicker" Title="Choose Ingredients" BackgroundColor="{StaticResource Secondary}">
+                <Picker.ItemsSource>
+                    <!-- Static Example, replace with dynamic data later -->
+                    <x:Array Type="{x:Type x:String}">
+                        <String>Tomato</String>
+                        <String>Potato</String>
+                        <String>Onion</String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <!-- Nationality Filter Dropdown -->
+            <Label Text="Select Nationality" TextColor="{StaticResource Primary}" />
+            <Picker x:Name="NationalityPicker" Title="Choose Nationality" BackgroundColor="{StaticResource Secondary}">
+                <Picker.ItemsSource>
+                    <!-- Static Example, replace with dynamic data later -->
+                    <x:Array Type="{x:Type x:String}">
+                        <String>Italian</String>
+                        <String>Mexican</String>
+                        <String>Indian</String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </StackLayout>
+
+        <!-- Featured Recipes Carousel (Horizontal Scrolling) -->
+        <ScrollView Row="2" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+            <StackLayout Orientation="Horizontal" Spacing="10" Padding="10">
+                <!-- Placeholder Recipe Images (use dynamic data later) -->
+                <Image Source="recipe1.jpg" WidthRequest="150" HeightRequest="150" />
+                <Image Source="recipe2.jpg" WidthRequest="150" HeightRequest="150" />
+                <Image Source="recipe3.jpg" WidthRequest="150" HeightRequest="150" />
+                <Image Source="recipe4.jpg" WidthRequest="150" HeightRequest="150" />
+                <Image Source="recipe5.jpg" WidthRequest="150" HeightRequest="150" />
+            </StackLayout>
+        </ScrollView>
+
+        <!-- Bottom Navigation Bar -->
+        <Grid Row="3" ColumnSpan="3" BackgroundColor="{StaticResource DarkBackground}">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Padding="10">
+                <Button Text="Home" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+                <Button Text="Favorites" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+                <Button Text="Meal Planner" BackgroundColor="Transparent" TextColor="{StaticResource Secondary}" />
+            </StackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>

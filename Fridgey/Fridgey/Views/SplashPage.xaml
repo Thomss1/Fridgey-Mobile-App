@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Fridgey.Views.SplashPage"
+             Title="SplashPage">
+    <Grid>
+        <VerticalStackLayout Spacing="10"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Center">
+
+            <Image Source="splash_logo.png"
+                   WidthRequest="170"
+                   HeightRequest="170"
+                   HorizontalOptions="Center" />
+
+            <Label Text="Fridgey"
+                   FontSize="35"
+                   FontAttributes="Bold"
+                   TextColor="#aeffde"
+                   HorizontalOptions="Center" />
+
+            <Label Text="by SmartBite"
+                   FontSize="16"
+                   TextColor="#e4f1ff"
+                   HorizontalOptions="Center" />
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
